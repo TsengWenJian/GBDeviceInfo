@@ -173,6 +173,7 @@ iOS Device support
 * iPhone8Plus
 * iPhoneSE
 * iPhoneSE2
+* iPhoneSE3
 * iPhoneX
 * iPhoneXR
 * iPhoneXS
@@ -207,6 +208,7 @@ iOS Device support
 * iPadAir2
 * iPadAir3
 * iPadAir4
+* iPadAir5
 * iPadPro9p7Inch
 * iPadPro10p5Inch
 * iPadPro12p9Inch
