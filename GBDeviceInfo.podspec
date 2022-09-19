@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name                      = 'GBDeviceInfo'
-  s.version                   = '6.8.0'
+  s.version                   = '6.9.0'
   s.summary                   = 'Detects the hardware, software and display of the current iOS or Mac OS X device at runtime.'
   s.author                    = 'Luka Mirosevic（woshiqyb modified）'      
   s.homepage                  = 'https://github.com/woshiqyb/GBDeviceInfo'
